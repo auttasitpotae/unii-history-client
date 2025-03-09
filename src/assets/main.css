@@ -26,3 +26,15 @@ body {
   background-color: #70d6ff9d;
   color: #ffffff;
 }
+
+.btn-danger {
+  background-color: #ff6b6b;
+  color: #ffffff;
+  border: 1px solid #ff6b6b;
+}
+
+.btn-danger:hover {
+  background-color: #ff6b6b9d;
+  color: #ffffff;
+  border: 1px solid #fc979738;
+}
